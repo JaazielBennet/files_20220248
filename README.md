@@ -1,4 +1,4 @@
-# mail2
+# files
 
 A new Flutter project.
 
